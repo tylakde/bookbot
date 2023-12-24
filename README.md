@@ -1,2 +1,2 @@
 # bookbot
-Book bot is my first project
+Book bot isn't my first project.
